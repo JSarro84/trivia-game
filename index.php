@@ -1,1 +1,1 @@
-<?php include_once("Simp_Triv.html"); ?>
+<?php include_once("trivi-game/Simp_Triv.html"); ?>
